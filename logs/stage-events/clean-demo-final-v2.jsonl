@@ -1,2 +1,0 @@
-{"ts": "2026-05-31T12:58:31Z", "event": "stage_start", "stage": "youtube-fetch", "pipeline": "youtube-research-wiki"}
-{"ts": "2026-05-31T12:58:40Z", "event": "stage_failed", "stage": "youtube-fetch", "pipeline": "youtube-research-wiki", "error": "fetch_youtube_metadata 退出 FETCH_EXIT_CODE=1: YouTube API 找不到视频 f-VvH6u_fX0"}
