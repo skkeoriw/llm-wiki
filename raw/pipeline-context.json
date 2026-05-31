@@ -13,10 +13,24 @@
     "meta_file": "raw/youtube-metadata/9EVDEpK6vfg.json"
   },
   "stage_b": {
+    "run_id": "direct-1780237864",
+    "start_time": "2026-05-31T14:31:16Z",
+    "end_time": "2026-05-31T14:44:00Z",
+    "duration_s": 764,
+    "api_calls": "unknown",
+    "videos_processed": 1,
+    "reports_generated": 1,
+    "mindmaps_generated": 1,
+    "output_files": [
+      "raw/notebooklm-analysis/Claude-Opus-4-8-性能评估与实测简报.md",
+      "raw/notebooklm-mindmaps/Claude-Opus-4-8-性能评估与实测简报.json",
+      "wiki/canvas/Claude-Opus-4-8-性能评估与实测简报.canvas"
+    ],
     "source_metadata": {
-      "title": "Claude Opus 4.8 发布！实测封神，强到离谱，Anthropic 重回AI之巅？一起看测试效果.... | 零度解说",
       "youtube_url": "https://www.youtube.com/watch?v=9EVDEpK6vfg",
-      "author": "零度解说"
+      "report_title": "Claude-Opus-4-8-性能评估与实测简报"
     }
-  }
+  },
+  "pipeline_id": "pipe-bc0f4b4",
+  "source_type": ""
 }
