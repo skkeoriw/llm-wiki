@@ -1,0 +1,2 @@
+{"ts": "2026-05-31T14:36:47Z", "event": "stage_start", "stage": "youtube-fetch", "pipeline": "youtube-research-wiki"}
+{"ts": "2026-05-31T14:37:00Z", "event": "stage_failed", "stage": "youtube-fetch", "pipeline": "youtube-research-wiki", "error": "fetch_youtube_metadata 退出 1: source_url not found in pipeline-context.json (变量未解析，占位符 {source_url} 未被 webhook 替换)"}
