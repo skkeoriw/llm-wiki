@@ -1,2 +1,0 @@
-{"ts": "2026-05-31T15:06:10Z", "event": "stage_start", "stage": "youtube-fetch", "pipeline": "youtube-research-wiki"}
-{"ts": "2026-05-31T15:06:27Z", "event": "stage_failed", "stage": "youtube-fetch", "pipeline": "youtube-research-wiki", "error": "fetch_youtube_metadata 退出 1: source_url 未在 pipeline-context.json 中找到（input 模板变量未展开，pipeline-context.json 不存在）"}
