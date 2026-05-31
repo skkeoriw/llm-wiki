@@ -33,5 +33,41 @@
       "youtube_url": "https://www.youtube.com/watch?v=9EVDEpK6vfg",
       "report_title": "Claude Opus 4.8 发布：性能飞跃、市场格局与实测深度简报"
     }
+  },
+  "stage_c": {
+    "run_id": "direct-1780234365",
+    "start_time": "2026-05-31T13:32:54Z",
+    "end_time": "2026-05-31T13:37:44Z",
+    "duration_s": 290,
+    "llm_calls": 19,
+    "pages_created_total": 46,
+    "pages_new_this_run": 17,
+    "pages_updated_this_run": 0,
+    "file_paths": [
+      "wiki/concepts/全流程自动化.md",
+      "wiki/concepts/动态工作流.md",
+      "wiki/concepts/多模态视觉.md",
+      "wiki/concepts/拟人化写作.md",
+      "wiki/concepts/最高强度推理模式.md",
+      "wiki/concepts/架构化能力.md",
+      "wiki/concepts/终端编码.md",
+      "wiki/concepts/记忆功能.md",
+      "wiki/concepts/诚实基准测试.md",
+      "wiki/entities/anthropic.md",
+      "wiki/entities/bloomberg-bog.md",
+      "wiki/entities/claude-opus-4-8.md",
+      "wiki/entities/google.md",
+      "wiki/entities/gpt-5-5.md",
+      "wiki/entities/mos-model.md",
+      "wiki/entities/wharton-school.md",
+      "wiki/sources/Claude-Opus-4-8-发布-性能飞跃-市场格局与实测深度简报.md"
+    ],
+    "sources": 3,
+    "entities": 18,
+    "concepts": 25,
+    "comparisons": 0,
+    "prompt_tokens": 18834,
+    "completion_tokens": 27824,
+    "status": "success"
   }
 }
