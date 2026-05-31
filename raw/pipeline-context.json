@@ -1,1 +1,24 @@
-{"source_url": "https://www.youtube.com/watch?v=f-VvH6u_fX0", "run_id": "final-clean-demo", "stage": "youtube-fetch"}
+{
+  "run_id": "final-clean-run-v3",
+  "source_url": "https://www.youtube.com/watch?v=L_Guz73e6fw",
+  "pipeline_id": "",
+  "stage": "youtube-fetch",
+  "raw_link_file": "sam-altman.md",
+  "stage_b_fetch": {
+    "run_id": "final-clean-run-v3",
+    "video_id": "L_Guz73e6fw",
+    "title": "Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367",
+    "author": "Lex Fridman",
+    "published_at": "2023-03-25T18:03:21Z",
+    "youtube_url": "https://www.youtube.com/watch?v=L_Guz73e6fw",
+    "thumbnail": "https://i.ytimg.com/vi/L_Guz73e6fw/hqdefault.jpg",
+    "meta_file": "raw/youtube-metadata/L_Guz73e6fw.json"
+  },
+  "stage_b": {
+    "source_metadata": {
+      "title": "Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367",
+      "youtube_url": "https://www.youtube.com/watch?v=L_Guz73e6fw",
+      "author": "Lex Fridman"
+    }
+  }
+}
