@@ -1,1 +1,2 @@
 {"ts": "2026-05-31T14:41:27Z", "event": "stage_start", "stage": "notebooklm-research", "pipeline": "youtube-research-wiki"}
+{"ts": "2026-05-31T14:52:50Z", "event": "stage_done", "stage": "notebooklm-research", "pipeline": "youtube-research-wiki", "duration_s": 683}
