@@ -36,5 +36,23 @@
     "youtube_url": "https://www.youtube.com/watch?v=9EVDEpK6vfg",
     "thumbnail": "https://i.ytimg.com/vi/9EVDEpK6vfg/hqdefault.jpg",
     "meta_file": "raw/youtube-metadata/9EVDEpK6vfg.json"
+  },
+  "stage_c": {
+    "run_id": "final-demo-success",
+    "start_time": "2026-05-31T15:23:53Z",
+    "end_time": "2026-05-31T15:24:31Z",
+    "duration_s": 38,
+    "llm_calls": 3,
+    "pages_created_total": 14,
+    "pages_new_this_run": 0,
+    "pages_updated_this_run": 1,
+    "file_paths": [],
+    "sources": 1,
+    "entities": 8,
+    "concepts": 5,
+    "comparisons": 0,
+    "prompt_tokens": 4018,
+    "completion_tokens": 4614,
+    "status": "success"
   }
 }
