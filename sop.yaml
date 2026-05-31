@@ -1,6 +1,6 @@
 name: youtube-research-wiki
 version: "2.0"
-wiki_local_path: /home/zhouhuijuan1987/wiki/youtube-video-research-wiki
+wiki_local_path: /home/a01020323900/wiki/llm-wiki
 repo: skkeoriw/llm-wiki
 
 notify:
