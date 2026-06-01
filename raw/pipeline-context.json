@@ -42,5 +42,47 @@
       "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
       "source_type": "youtube"
     }
+  },
+  "stage_c": {
+    "run_id": "direct-1780299663",
+    "start_time": "2026-06-01T07:41:03Z",
+    "end_time": "2026-06-01T07:43:22Z",
+    "duration_s": 138,
+    "llm_calls": 25,
+    "pages_created_total": 56,
+    "pages_new_this_run": 23,
+    "pages_updated_this_run": 0,
+    "file_paths": [
+      "wiki/concepts/不撤退策略.md",
+      "wiki/concepts/保护性.md",
+      "wiki/concepts/六个绝不.md",
+      "wiki/concepts/共识框架.md",
+      "wiki/concepts/关系规则.md",
+      "wiki/concepts/完全承诺.md",
+      "wiki/concepts/情感互动模式.md",
+      "wiki/concepts/情感僵局.md",
+      "wiki/concepts/情感忠诚.md",
+      "wiki/concepts/情感行为准则.md",
+      "wiki/concepts/情感表达的紧迫性.md",
+      "wiki/concepts/情感透明度.md",
+      "wiki/concepts/持续性.md",
+      "wiki/concepts/排他性.md",
+      "wiki/concepts/支持性.md",
+      "wiki/concepts/稳定性.md",
+      "wiki/concepts/终结性.md",
+      "wiki/concepts/诚实性.md",
+      "wiki/concepts/长期契约精神.md",
+      "wiki/concepts/长期时间成本.md",
+      "wiki/entities/never-gonna-give-you-up.md",
+      "wiki/entities/rick-astley.md",
+      "wiki/sources/情感承诺与长期关系的忠诚框架Rick Astley文本深度简报.md"
+    ],
+    "sources": 3,
+    "entities": 9,
+    "concepts": 44,
+    "comparisons": 0,
+    "prompt_tokens": 23827,
+    "completion_tokens": 25257,
+    "status": "success"
   }
 }
