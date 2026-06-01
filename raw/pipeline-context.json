@@ -42,5 +42,34 @@
       "thumbnail": "https://i.ytimg.com/vi/arj7oStGLkU/hqdefault.jpg",
       "source_type": "youtube"
     }
+  },
+  "stage_c": {
+    "run_id": "direct-1780297322",
+    "start_time": "2026-06-01T07:02:03Z",
+    "end_time": "2026-06-01T07:03:16Z",
+    "duration_s": 73,
+    "llm_calls": 12,
+    "pages_created_total": 33,
+    "pages_new_this_run": 10,
+    "pages_updated_this_run": 0,
+    "file_paths": [
+      "wiki/concepts/即时满足猴子.md",
+      "wiki/concepts/恐慌怪兽.md",
+      "wiki/concepts/拖延症.md",
+      "wiki/concepts/无截止日期的拖延.md",
+      "wiki/concepts/有截止日期的拖延.md",
+      "wiki/concepts/理性决策者.md",
+      "wiki/concepts/生命日历.md",
+      "wiki/concepts/黑暗游乐场.md",
+      "wiki/entities/tim-urban.md",
+      "wiki/sources/深度简报拖延症大师的内心世界.md"
+    ],
+    "sources": 2,
+    "entities": 7,
+    "concepts": 24,
+    "comparisons": 0,
+    "prompt_tokens": 11922,
+    "completion_tokens": 12642,
+    "status": "success"
   }
 }
