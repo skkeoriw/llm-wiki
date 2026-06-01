@@ -18,5 +18,9 @@
       "youtube_url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
       "author": "officialpsy"
     }
+  },
+  "wiki_build": {
+    "status": "skipped",
+    "skip_reason": "no_output_files_contract"
   }
 }
