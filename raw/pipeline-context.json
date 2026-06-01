@@ -19,23 +19,23 @@
     ],
     "source_metadata": {
       "video_id": "9EVDEpK6vfg",
-      "title": "Karpathy发现的AI编程三大陷阱 | 14万Star的密码：一个文件如何降低AI返工率",
-      "author": "为什么叫QQ",
+      "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+      "author": "Rick Astley",
       "published_at": "2026-05-30T12:37:24Z",
-      "youtube_url": "https://www.youtube.com/watch?v=-H1n7teqW7A",
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
       "thumbnail": "https://i.ytimg.com/vi/9EVDEpK6vfg/hqdefault.jpg",
       "source_type": "youtube"
     }
   },
   "stage_b_fetch": {
-    "run_id": "force-manual-1780250112",
-    "video_id": "-H1n7teqW7A",
-    "title": "Karpathy发现的AI编程三大陷阱 | 14万Star的密码：一个文件如何降低AI返工率",
-    "author": "为什么叫QQ",
-    "published_at": "2026-05-23T12:15:31Z",
-    "youtube_url": "https://www.youtube.com/watch?v=-H1n7teqW7A",
-    "thumbnail": "https://i.ytimg.com/vi/-H1n7teqW7A/hqdefault.jpg",
-    "meta_file": "raw/youtube-metadata/-H1n7teqW7A.json"
+    "run_id": "direct-1780283937",
+    "video_id": "dQw4w9WgXcQ",
+    "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+    "author": "Rick Astley",
+    "published_at": "2009-10-25T06:57:33Z",
+    "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+    "meta_file": "raw/youtube-metadata/dQw4w9WgXcQ.json"
   },
   "stage_c": {
     "run_id": "final-demo-success",
