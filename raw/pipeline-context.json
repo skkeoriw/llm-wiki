@@ -1,7 +1,7 @@
 {
-  "pipeline_id": "pipe-local-expressway",
-  "source_url": "https://www.youtube.com/watch?v=-H1n7teqW7A",
-  "source_type": "",
+  "pipeline_id": "dQw4w9WgXcQ-20260601T031856",
+  "source_url": "https://youtu.be/dQw4w9WgXcQ",
+  "source_type": "youtube",
   "delivery_id": "",
   "stage_b": {
     "run_id": "direct-1780240180",
