@@ -13,10 +13,34 @@
     "meta_file": "raw/youtube-metadata/5MgBikgcWnY.json"
   },
   "stage_b": {
+    "run_id": "stageb-full-1780296445",
+    "start_time": "2026-06-01T06:47:26Z",
+    "end_time": "2026-06-01T06:48:28Z",
+    "duration_s": 62,
+    "status": "success",
+    "videos_processed": 1,
+    "reports_generated": 1,
+    "mindmaps_generated": 0,
+    "processed_urls": [
+      "https://www.youtube.com/watch?v=5MgBikgcWnY"
+    ],
+    "output_files": [
+      "raw/notebooklm-analysis/快速技能习得的-20小时法则-深度分析简报.md"
+    ],
+    "generated_files": [
+      {
+        "type": "report",
+        "path": "/tmp/notebooklm_processor/1780296495_report-1780296488.md"
+      }
+    ],
     "source_metadata": {
+      "video_id": "5MgBikgcWnY",
       "title": "The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU",
+      "author": "TEDx Talks",
+      "published_at": "2013-03-14T17:17:26Z",
       "youtube_url": "https://www.youtube.com/watch?v=5MgBikgcWnY",
-      "author": "TEDx Talks"
+      "thumbnail": "https://i.ytimg.com/vi/5MgBikgcWnY/hqdefault.jpg",
+      "source_type": "youtube"
     }
   }
 }
