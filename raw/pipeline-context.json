@@ -1,58 +1,6 @@
 {
-  "pipeline_id": "dQw4w9WgXcQ-20260601T031856",
-  "source_url": "https://youtu.be/dQw4w9WgXcQ",
+  "pipeline_id": "9EVDEpK6vfg-20260601T032847",
+  "source_url": "https://www.youtube.com/watch?v=9EVDEpK6vfg",
   "source_type": "youtube",
-  "delivery_id": "",
-  "stage_b": {
-    "run_id": "direct-1780240180",
-    "start_time": "2026-05-31T15:09:47Z",
-    "end_time": "2026-05-31T15:13:00Z",
-    "duration_s": 193,
-    "api_calls": "unknown",
-    "videos_processed": 1,
-    "reports_generated": 1,
-    "mindmaps_generated": 1,
-    "output_files": [
-      "raw/notebooklm-analysis/Claude-Opus-4-8-性能评估与实测简报.md",
-      "raw/notebooklm-mindmaps/Claude-Opus-4-8-性能评估与实测简报.json",
-      "wiki/canvas/Claude-Opus-4-8-性能评估与实测简报.canvas"
-    ],
-    "source_metadata": {
-      "video_id": "9EVDEpK6vfg",
-      "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
-      "author": "Rick Astley",
-      "published_at": "2026-05-30T12:37:24Z",
-      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "thumbnail": "https://i.ytimg.com/vi/9EVDEpK6vfg/hqdefault.jpg",
-      "source_type": "youtube"
-    }
-  },
-  "stage_b_fetch": {
-    "run_id": "direct-1780283937",
-    "video_id": "dQw4w9WgXcQ",
-    "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
-    "author": "Rick Astley",
-    "published_at": "2009-10-25T06:57:33Z",
-    "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
-    "meta_file": "raw/youtube-metadata/dQw4w9WgXcQ.json"
-  },
-  "stage_c": {
-    "run_id": "final-demo-success",
-    "start_time": "2026-05-31T15:23:53Z",
-    "end_time": "2026-05-31T15:24:31Z",
-    "duration_s": 38,
-    "llm_calls": 3,
-    "pages_created_total": 14,
-    "pages_new_this_run": 0,
-    "pages_updated_this_run": 1,
-    "file_paths": [],
-    "sources": 1,
-    "entities": 8,
-    "concepts": 5,
-    "comparisons": 0,
-    "prompt_tokens": 4018,
-    "completion_tokens": 4614,
-    "status": "success"
-  }
+  "delivery_id": ""
 }
