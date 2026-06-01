@@ -1,5 +1,22 @@
 {
   "source_url": "https://www.youtube.com/watch?v=arj7oStGLkU",
   "source_type": "youtube",
-  "pipeline_id": "arj7oStGLkU-20260601T070051"
+  "pipeline_id": "arj7oStGLkU-20260601T070051",
+  "stage_b_fetch": {
+    "run_id": "direct-1780297253",
+    "video_id": "arj7oStGLkU",
+    "title": "Inside the Mind of a Master Procrastinator | Tim Urban | TED",
+    "author": "TED",
+    "published_at": "2016-04-06T16:59:35Z",
+    "youtube_url": "https://www.youtube.com/watch?v=arj7oStGLkU",
+    "thumbnail": "https://i.ytimg.com/vi/arj7oStGLkU/hqdefault.jpg",
+    "meta_file": "raw/youtube-metadata/arj7oStGLkU.json"
+  },
+  "stage_b": {
+    "source_metadata": {
+      "title": "Inside the Mind of a Master Procrastinator | Tim Urban | TED",
+      "youtube_url": "https://www.youtube.com/watch?v=arj7oStGLkU",
+      "author": "TED"
+    }
+  }
 }
