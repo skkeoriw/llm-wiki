@@ -1,2 +1,0 @@
-{"ts": "2026-06-01T05:53:40Z", "event": "stage_start", "stage": "notebooklm-research", "pipeline": "youtube-research-wiki"}
-{"ts": "2026-06-01T05:54:43Z", "event": "stage_failed", "stage": "notebooklm-research", "pipeline": "youtube-research-wiki", "error": "copy-and-rename-output failed"}
