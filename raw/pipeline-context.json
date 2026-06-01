@@ -1,5 +1,22 @@
 {
   "source_url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
   "source_type": "youtube",
-  "pipeline_id": "9bZkp7q19f0-20260601T073648"
+  "pipeline_id": "9bZkp7q19f0-20260601T073648",
+  "stage_b_fetch": {
+    "run_id": "direct-1780299409",
+    "video_id": "9bZkp7q19f0",
+    "title": "PSY - GANGNAM STYLE(강남스타일) M/V",
+    "author": "officialpsy",
+    "published_at": "2012-07-15T07:46:32Z",
+    "youtube_url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+    "thumbnail": "https://i.ytimg.com/vi/9bZkp7q19f0/hqdefault.jpg",
+    "meta_file": "raw/youtube-metadata/9bZkp7q19f0.json"
+  },
+  "stage_b": {
+    "source_metadata": {
+      "title": "PSY - GANGNAM STYLE(강남스타일) M/V",
+      "youtube_url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "author": "officialpsy"
+    }
+  }
 }
