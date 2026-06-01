@@ -2,5 +2,22 @@
   "pipeline_id": "9EVDEpK6vfg-20260601T032847",
   "source_url": "https://www.youtube.com/watch?v=9EVDEpK6vfg",
   "source_type": "youtube",
-  "delivery_id": ""
+  "delivery_id": "",
+  "stage_b_fetch": {
+    "run_id": "direct-1780284528",
+    "video_id": "9EVDEpK6vfg",
+    "title": "Claude Opus 4.8 发布！实测封神，强到离谱，Anthropic 重回AI之巅？一起看测试效果.... | 零度解说",
+    "author": "零度解说",
+    "published_at": "2026-05-30T12:37:24Z",
+    "youtube_url": "https://www.youtube.com/watch?v=9EVDEpK6vfg",
+    "thumbnail": "https://i.ytimg.com/vi/9EVDEpK6vfg/hqdefault.jpg",
+    "meta_file": "raw/youtube-metadata/9EVDEpK6vfg.json"
+  },
+  "stage_b": {
+    "source_metadata": {
+      "title": "Claude Opus 4.8 发布！实测封神，强到离谱，Anthropic 重回AI之巅？一起看测试效果.... | 零度解说",
+      "youtube_url": "https://www.youtube.com/watch?v=9EVDEpK6vfg",
+      "author": "零度解说"
+    }
+  }
 }
