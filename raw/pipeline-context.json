@@ -42,5 +42,47 @@
       "thumbnail": "https://i.ytimg.com/vi/5MgBikgcWnY/hqdefault.jpg",
       "source_type": "youtube"
     }
+  },
+  "stage_c": {
+    "run_id": "stagec-full-1780296545",
+    "start_time": "2026-06-01T06:49:05Z",
+    "end_time": "2026-06-01T06:51:47Z",
+    "duration_s": 161,
+    "llm_calls": 25,
+    "pages_created_total": 23,
+    "pages_new_this_run": 23,
+    "pages_updated_this_run": 0,
+    "file_paths": [
+      "wiki/concepts/20小时法则.md",
+      "wiki/concepts/一万小时定律.md",
+      "wiki/concepts/以学代练.md",
+      "wiki/concepts/刻意练习.md",
+      "wiki/concepts/学习到足以自校.md",
+      "wiki/concepts/学习曲线.md",
+      "wiki/concepts/工具先行.md",
+      "wiki/concepts/平台期.md",
+      "wiki/concepts/微计划.md",
+      "wiki/concepts/心理预期管理.md",
+      "wiki/concepts/拆解技能.md",
+      "wiki/concepts/挫败感障碍.md",
+      "wiki/concepts/显著提升期.md",
+      "wiki/concepts/社会化传声筒效应.md",
+      "wiki/concepts/移除练习障碍.md",
+      "wiki/concepts/预先承诺.md",
+      "wiki/entities/josh-kaufman.md",
+      "wiki/entities/k-anders-ericsson.md",
+      "wiki/entities/malcolm-gladwell.md",
+      "wiki/entities/tedxcsu.md",
+      "wiki/entities/尤克里里.md",
+      "wiki/entities/异类成功的故事.md",
+      "wiki/sources/快速技能习得的20小时法则深度分析简报.md"
+    ],
+    "sources": 1,
+    "entities": 6,
+    "concepts": 16,
+    "comparisons": 0,
+    "prompt_tokens": 24798,
+    "completion_tokens": 23434,
+    "status": "success"
   }
 }
