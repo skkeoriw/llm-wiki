@@ -13,10 +13,34 @@
     "meta_file": "raw/youtube-metadata/dQw4w9WgXcQ.json"
   },
   "stage_b": {
+    "run_id": "direct-1780299606",
+    "start_time": "2026-06-01T07:40:06Z",
+    "end_time": "2026-06-01T07:41:00Z",
+    "duration_s": 54,
+    "status": "success",
+    "videos_processed": 1,
+    "reports_generated": 1,
+    "mindmaps_generated": 0,
+    "processed_urls": [
+      "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    ],
+    "output_files": [
+      "raw/notebooklm-analysis/情感承诺与长期关系的忠诚框架-Rick-Astley-文本深度简报.md"
+    ],
+    "generated_files": [
+      {
+        "type": "report",
+        "path": "/tmp/notebooklm_processor/1780299654_report-1780299648.md"
+      }
+    ],
     "source_metadata": {
+      "video_id": "dQw4w9WgXcQ",
       "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+      "author": "Rick Astley",
+      "published_at": "2009-10-25T06:57:33Z",
       "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "author": "Rick Astley"
+      "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+      "source_type": "youtube"
     }
   }
 }
