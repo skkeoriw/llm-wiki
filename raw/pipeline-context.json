@@ -1,0 +1,24 @@
+{
+  "pipeline_id": "dQw4w9WgXcQ-20260601T031856",
+  "source_url": "https://youtu.be/dQw4w9WgXcQ",
+  "run_id": "direct-1780283937",
+  "stage": "youtube-fetch",
+  "wiki_local_path": "/home/zhouhuijuan1987/wiki/llm-wiki",
+  "stage_b_fetch": {
+    "run_id": "direct-1780284528",
+    "video_id": "dQw4w9WgXcQ",
+    "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+    "author": "Rick Astley",
+    "published_at": "2009-10-25T06:57:33Z",
+    "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+    "meta_file": "raw/youtube-metadata/dQw4w9WgXcQ.json"
+  },
+  "stage_b": {
+    "source_metadata": {
+      "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "author": "Rick Astley"
+    }
+  }
+}
