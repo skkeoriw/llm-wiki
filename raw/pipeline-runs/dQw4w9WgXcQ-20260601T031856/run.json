@@ -1,0 +1,18 @@
+{
+  "pipeline_id": "dQw4w9WgXcQ-20260601T031856",
+  "sop_id": "youtube-research-wiki",
+  "repo": "skkeoriw/llm-wiki",
+  "status": "running",
+  "source_url": "https://youtu.be/dQw4w9WgXcQ",
+  "source_type": "",
+  "nodes": {
+    "youtube-fetch": "done",
+    "notebooklm-research": "waiting",
+    "wiki-build": "waiting",
+    "tg-notify": "waiting",
+    "retry": "waiting"
+  },
+  "last_run_id": "direct-1780283937",
+  "started_at": "2026-06-04T02:39:17Z",
+  "updated_at": "2026-06-04T02:39:17Z"
+}

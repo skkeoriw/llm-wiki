@@ -1,0 +1,16 @@
+{
+  "pipeline_id": "dQw4w9WgXcQ-20260601T031856",
+  "node_id": "youtube-fetch",
+  "run_id": "direct-1780283937",
+  "status": "done",
+  "mode": "blocking",
+  "needs": [],
+  "started_at": "",
+  "finished_at": "2026-06-04T02:39:17Z",
+  "inputs": {},
+  "outputs": {},
+  "optional_inputs": {},
+  "extra": {},
+  "error": "",
+  "updated_at": "2026-06-04T02:39:17Z"
+}
